@@ -1,4 +1,5 @@
-% Copyright 2013 Carnegie Mellon University
+% (C) 2014 Joseph Fernandez. Please see license.txt for license information.
+%
 
 % buildMMCFbias.m
 % Author: Joseph Fernandez and Andres Rodriguez
