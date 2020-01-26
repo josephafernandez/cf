@@ -1,3 +1,5 @@
+% (C) 2014 Joseph Fernandez. Please see license.txt for license information.
+%
 % script to test idea for training filters using column/row tail
 % minimization
 close all
