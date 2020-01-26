@@ -1,4 +1,5 @@
-% Copyright 2008 Carnegie Mellon University
+% (C) 2013 Andres Rodriguez, used with permission. Please see license.txt for license information.
+%
 % Author: Andres Rodriguez
 % Date: Mar 19, 2009
 %
