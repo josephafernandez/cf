@@ -1,3 +1,5 @@
+% (C) 2014 Joseph Fernandez. Please see license.txt for license information.
+%
 % function to implement proximal gradient descent for computing ZACF
 %---INPUTS-----
 % optfxn - matlab function specifying the optimization function used for
