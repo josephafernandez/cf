@@ -1,3 +1,5 @@
+% (C) 2014 Joseph Fernandez. Please see license.txt for license information.
+%
 close all
 clear all
 clc
