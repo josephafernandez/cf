@@ -1,3 +1,5 @@
+% (C) 2014 Joseph Fernandez. Please see license.txt for license information.
+%
 function out = IDFT_MATRIX(N1, N2)
 
 % form the phi matrix
