@@ -1,3 +1,5 @@
+% (C) 2014 Joseph Fernandez. Please see license.txt for license information.
+%
 % Joseph Fernandez 2011
 % 
 % This function will take a 2d correlation filter (y,x) and an image
