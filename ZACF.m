@@ -1,3 +1,5 @@
+% (C) 2014 Joseph Fernandez. Please see license.txt for license information.
+%
 % This function computes a ZACF for a given set of training signals.
 
 % list of parameters here
